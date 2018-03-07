@@ -1,0 +1,18 @@
+{
+  "name": "agk-tts",
+  "version": "0.0.0",
+  "description": "Simple wrapper for the WebTTS object, or speak through screen reader using ARIA, mainly used for audio games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TTS",
+    "ARIA",
+    "Screen",
+    "Reader",
+    "WebTTS"
+  ],
+  "author": "Ghorthalon",
+  "license": "MIT"
+}
